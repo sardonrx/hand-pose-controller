@@ -15,7 +15,7 @@ Apart from it if you have Pycharm that would be great but not mandatory.
 
 
 ## Installation
-1. 
+1. Clone this repository 
 2. Open the file either in PyCharm or other IDE
 3. Now open a terminal in the current directory and run `python main.py`
    
