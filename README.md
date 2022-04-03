@@ -1,4 +1,4 @@
-# Gesture Controlled Video Game
+# Hand pose controlled car racing.
 
 ## Introduction
 This project is an amazing blend of Computer vision and Video Game.
