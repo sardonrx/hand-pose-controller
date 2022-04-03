@@ -37,3 +37,4 @@ Now place
    So to avoid it move your cursor and **click on the game window**
    
 watch the full video here: https://www.youtube.com/watch?v=xAw-SuEGd40
+read more here: https://susanadesoji.medium.com/hand-pose-controlled-car-racing-cddc9e40d4ef
