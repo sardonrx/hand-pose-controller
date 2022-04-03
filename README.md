@@ -3,7 +3,7 @@
 ## Introduction
 This project is an amazing blend of Computer vision and Video Game.
 In simple words I can say move you finger in front of camera
-and just drive the car as show in the following gif
+and just drive the car.
 
 
 ### I know you want play too !!!
